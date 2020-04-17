@@ -1,0 +1,16 @@
+{
+    "name": "starbhak/belajar-composer",
+    "description": "Untuk Kebutuhan Belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Bayu Kartiko",
+            "email": "bayu69kartiko@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5",
+        "phpoffice/phpspreadsheet": "^1.11"
+    }
+}
